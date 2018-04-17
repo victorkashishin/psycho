@@ -1,0 +1,53 @@
+@media (max-width: 1366px) {
+    #header .phone{
+        font-size: 20px;
+    }
+    #contact .forma input{
+        width: 80%;
+    }
+    .opser h2{
+        padding: 10px 30px;
+    }
+    .features, .features2{
+        height: 200px;
+    }
+    #bread{
+        height: auto;
+    }
+    .features2{
+        margin-bottom: 80px;
+    }
+    #wrapper .images_center2 {
+        height: 500px;
+    }
+    .one p{
+        font-size: 30px;
+    }
+    #services .usluga{
+        height: 1150px;
+    }
+    #services .usluga2{
+         height: 1150px;
+    }
+    .video-background {
+        top: 0px;
+    }
+    .contacts{
+        margin-top: 60px;
+        opacity: 1;
+    }
+    .third{
+        height: 460px;
+        margin-top: 230px;
+    }
+    .map3 ul{
+    text-align: left;
+    list-style-type: none;
+        padding:0 10px;
+    font-family: 'MWF';
+    color: #0574cd;
+}
+.map3 ul li{
+    line-height: 24px;
+}
+}
